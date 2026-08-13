@@ -1,3 +1,5 @@
+<img src="./github-banner.png.png" alt="Anuj Tiwari GitHub Banner" width="100%">
+
 # Hi 👋, I'm Anuj Tiwari
 
 ### AI/ML | Data Analytics | Software Development
@@ -10,11 +12,11 @@ I'm interested in building practical solutions using Machine Learning, Deep Lear
 
 **Languages:** Python, SQL, JavaScript
 
-**AI/ML:** Scikit-learn, PyTorch, TensorFlow, Pandas, NumPy
+**AI/ML:** Scikit-learn, PyTorch, XGBoost, SHAP, Pandas, NumPy
 
-**Development:** FastAPI, Flask, React
+**Development:** FastAPI, React.js, REST APIs
 
-**Tools:** Git, GitHub, Docker
+**Tools:** Git, GitHub, Vercel, Render
 
 ---
 
