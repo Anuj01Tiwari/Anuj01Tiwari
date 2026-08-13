@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="./github-banner.png.png" alt="Anuj Tiwari GitHub Banner" width="100%">
+<p align="center">
+  <img src="./github-banner.png" alt="Anuj Tiwari - AI/ML | Data Analytics | Software Development" width="100%">
+</p>
 
 # Hi 👋, I'm Anuj Tiwari
 
