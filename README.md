@@ -1,244 +1,227 @@
-<p align="center">
-  <img src="./github-banner.png" alt="Anuj Tiwari - AI/ML | Data Analytics | Software Development" width="100%">
+<div align="center">
+
+<img src="./github-banner.png" alt="Anuj Tiwari - AI/ML | Data Analytics | Software Development" width="100%">
+
+Hi 👋, I'm Anuj Tiwari
+
+AI/ML • Data Analytics • Software Development
+
+Building practical AI systems, data-driven applications, and intelligent software solutions.
+
+<p>
+<a href="https://github.com/Anuj01Tiwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anuj-tiwari-4957a9379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:anujptiwari1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-# Hi 👋, I'm Anuj Tiwari
-
-### AI/ML | Data Analytics | Software Development
-
-**Machine Learning / AI Engineer** focused on building practical AI systems, data-driven applications, and intelligent software solutions.
-
-<a href="https://github.com/Anuj01Tiwari">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-<a href="https://www.linkedin.com/in/anuj-tiwari-4957a9379/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+🤖 My primary focus is Artificial Intelligence & Machine Learning
 
-* 🤖 Focused primarily on **Artificial Intelligence & Machine Learning**
-* 🧠 Interested in **Deep Learning, NLP, Computer Vision and Agentic AI**
-* 📊 Building practical solutions using **Machine Learning and Data Analytics**
-* ⚙️ Experienced with **LangGraph-based AI workflows and REST APIs**
-* 🚀 Interested in deploying real-world AI applications
-* 💡 Currently strengthening my skills across **AI/ML, Data and Software Development**
+🧠 Exploring Deep Learning, Computer Vision, NLP & Generative AI
 
----
+🔗 Building Agentic AI workflows with LangGraph and LLM-based systems
 
-## 🛠️ Tech Stack
+📊 Working with Data Analytics, SQL and data-driven applications
 
-### 💻 Languages
+⚙️ Developing applications and APIs with FastAPI, Flask and React
+
+🚀 Learning by building practical projects and turning ideas into working systems
+
+🛠️ Tech Stack
+
+🤖 AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="AI ML stack">
 </p>
 
-### 🤖 Machine Learning
-
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/SHAP-Explainability-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Regression-ML-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Clustering-ML-purple?style=for-the-badge">
-</p>
-
-### 🧠 Deep Learning & Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/ResNet-Deep%20Learning-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Grad--CAM-Explainable%20AI-orange?style=for-the-badge">
-</p>
-
-### 🗣️ NLP & Agentic AI
-
-<p>
-<img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/Sentence%20Transformers-NLP-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/TF--IDF-NLP-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/UMAP-Dimensionality%20Reduction-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative%20AI-LLMs-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangChain-GenAI-1C3C3C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge">
 </p>
 
-### 📊 Data & Visualization
+🧠 Deep Learning & Computer Vision
 
 <p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/CNN-Deep%20Learning-6D28D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/ResNet-50-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Grad--CAM-XAI-F97316?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
+
+🗣️ NLP & Text Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-NLP-16A34A?style=for-the-badge">
+<img src="https://img.shields.io/badge/TF--IDF-NLP-EAB308?style=for-the-badge">
+<img src="https://img.shields.io/badge/UMAP-Dimensionality%20Reduction-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/HDBSCAN-Clustering-9333EA?style=for-the-badge">
+</p>
+
+📊 Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Vega--Lite-Visualization-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Vega--Lite-Visualization-F59E0B?style=for-the-badge">
 </p>
 
-### ⚙️ Development & Deployment
+⚙️ Development
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://skillicons.dev/icons?i=python,js,react,fastapi,flask" alt="Development stack">
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hugging%20Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 </p>
 
-### 🔧 Tools
+🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools">
 </p>
 
----
+🚀 Featured Projects
 
-# 🚀 Featured Projects
+🩻 Chest X-Ray Disease Classification
 
-## 🩻 Chest X-Ray Pneumonia Classification
+PyTorch • ResNet-50 • Grad-CAM • Gradio
 
-**PyTorch • ResNet-50 • Grad-CAM • Gradio • Hugging Face Spaces**
+Explainable multi-class X-ray classification system for Normal, Pneumonia, COVID-19 and Tuberculosis.
 
-Deep learning system for classifying chest X-rays into **Normal, Viral Pneumonia and Bacterial Pneumonia** using transfer learning with ResNet-50.
+5,800+ X-ray images
 
-**Highlights:**
+85%+ classification accuracy
 
-* 85%+ classification accuracy
-* 0.95 weighted AUC
-* Compared classical ML with deep CNN approaches
-* Used class-weighted loss and data augmentation
-* Implemented Grad-CAM for model interpretability
-* Deployed interactive inference application using Gradio
+0.95 weighted AUC
 
----
+Transfer learning with ResNet-50
 
-## 🤖 LangGraph SQL Agent
+Data augmentation and class-weighted training
 
-**Python • LangGraph • Groq • FastAPI • SQLite • React**
+Grad-CAM for visual model explanations
 
-Multi-agent AI analytics system that converts **natural-language questions into executable SQL queries** and generates contextual analytical responses.
+Interactive inference interface with Gradio
 
-**Highlights:**
+🤖 LangGraph SQL Agent
 
-* Intent routing
-* SQL query generation
-* SQL validation
-* Table selection
-* Response synthesis
-* Streaming responses using SSE
-* Real-time chart generation with Vega-Lite
-* React frontend + FastAPI backend
-* Deployed using Vercel and Render
+LangGraph • Groq • FastAPI • React • SQL
 
----
+AI-powered analytics agent that converts natural-language questions into SQL, executes queries, and generates contextual analytical responses.
 
-## 📉 Customer Churn Prediction
+Natural-language → SQL workflow
 
-**Python • XGBoost • SHAP • React • Vite**
+Query validation and table selection
 
-End-to-end machine learning application for predicting customer churn using the IBM Telco Customer Churn dataset.
+Agentic routing and response synthesis
 
-**Highlights:**
+Streaming responses with SSE
 
-* 7,043 customer records
-* XGBoost classification model
-* Feature engineering and EDA
-* SHAP-based model explainability
-* Real-time prediction interface
-* React/Vite frontend
+Interactive Vega-Lite visualizations
 
----
+React frontend + FastAPI backend
 
-# 🧠 What I'm Currently Working On
+📉 Customer Churn Prediction
 
-```text
+Python • Scikit-learn • XGBoost • SHAP • React
+
+End-to-end ML application for predicting customer churn from the IBM Telco Customer Churn dataset.
+
+7,043 customer records
+
+Feature engineering and exploratory analysis
+
+XGBoost classification
+
+SHAP-based explainability
+
+Interactive React prediction interface
+
+🧩 AI Form Automation
+
+Python • Playwright • AI Agents • REST APIs
+
+AI-assisted form automation workflow designed to understand form fields, collect information conversationally, and automate browser-based form filling.
+
+🧠 Current Focus
+
 Artificial Intelligence
         ↓
 Machine Learning
         ↓
-Deep Learning
+Deep Learning + Computer Vision
         ↓
-NLP + Agentic AI
+NLP + Generative AI
+        ↓
+Agentic AI
         ↓
 Data Analytics
         ↓
 Production-ready AI Applications
-```
 
-I'm continuously improving my understanding of machine learning, deep learning, AI agents, data analytics and software development by building practical projects.
-
----
-
-# 📊 GitHub Analytics
+📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anuj01Tiwari&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=Anuj01Tiwari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj01Tiwari&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj01Tiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Anuj01Tiwari&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anuj01Tiwari&theme=tokyonight&hide_border=true">
+<img src="https://raw.githubusercontent.com/Anuj01Tiwari/Anuj01Tiwari/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
 </div>
 
----
-
-# 📈 Contribution Graph
+📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj01Tiwari&theme=tokyo-night&hide_border=true&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj01Tiwari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph">
 
 </div>
 
----
+📜 Certifications
 
-# 📚 Certifications
+AI/ML Internship Completion Certificate — MPSEDC
 
-* **AI/ML Internship Completion Certificate — MPSEDC**
-* **Core Java Programming — NPTEL**
-* **Departmental Magazine Design & Leadership Certificate — UIT, RGPV**
+Core Java Programming — NPTEL
 
----
+Departmental Magazine Design & Leadership Certificate — UIT, RGPV
 
-# 🤝 Let's Connect
+🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anuj-tiwari-4957a9379/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/Anuj01Tiwari">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:anujptiwari1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
+<a href="https://www.linkedin.com/in/anuj-tiwari-4957a9379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Anuj01Tiwari"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:anujptiwari1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
----
-
 <div align="center">
 
-### 💡 Building AI systems that solve real-world problems.
+💡 Building practical AI systems that solve real-world problems.
 
-**Code for today. Impact tomorrow.**
+Learn • Build • Improve
 
 </div>
