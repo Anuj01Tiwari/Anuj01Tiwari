@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Anuj Tiwari
 
-<!--
-**Anuj01Tiwari/Anuj01Tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML | Data Analytics | Software Development
 
-Here are some ideas to get you started:
+I'm interested in building practical solutions using Machine Learning, Deep Learning, Data Analytics and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, JavaScript
+
+**AI/ML:** Scikit-learn, PyTorch, TensorFlow, Pandas, NumPy
+
+**Development:** FastAPI, Flask, React
+
+**Tools:** Git, GitHub, Docker
+
+---
+
+## 🚀 What I'm Working On
+
+- Machine Learning & Deep Learning projects
+- AI/ML applications and intelligent agents
+- Data Analytics and SQL
+- Software development
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
