@@ -1,183 +1,95 @@
-::: {align="center"}
-<img src="./github-banner.png" alt="Anuj Tiwari | AI/ML Engineer | Data Analytics | Software Development" width="100%">{=html}
+<div align="center">
+
+<img src="./github-banner.png" alt="Anuj Tiwari | AI/ML • Data Analytics • Software Development" width="100%">
 
 Hi 👋, I'm Anuj Tiwari
 
-🤖 AI/ML Engineer • 📊 Data Analytics • 💻 Software Development
+AI/ML • Data Analytics • Software Development
 
-Building practical AI systems, data-driven applications, and
-intelligent software solutions.
-:::
+Building practical AI systems, data-driven applications, and intelligent software solutions.
+
+<p>
+<a href="https://github.com/Anuj01Tiwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/anuj-tiwari-4957a9379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:anujptiwari1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+</div>
 
 👨‍💻 About Me
 
-<table>
+🤖 Primary focus: Artificial Intelligence & Machine Learning
 
-<tr>
+🧠 Exploring Deep Learning, Computer Vision, NLP & Generative AI
 
-<td width="68%" valign="top">
+🔗 Building Agentic AI workflows with LangGraph and LLM-based systems
 
-Hey! I'm Anuj 👋
+📊 Working with Data Analytics, SQL and data-driven applications
 
-🤖 I'm focused on Artificial Intelligence & Machine Learning, with a
-strong interest in building practical and useful AI systems.
+⚙️ Developing applications and APIs with FastAPI, Flask and React
 
-🧠 Exploring Deep Learning, Computer Vision, NLP, Generative AI and
-Agentic AI.
-
-🔗 Building AI workflows using LangGraph, LLMs and intelligent
-agents.
-
-📊 Working with Data Analytics, SQL and data-driven applications.
-
-⚙️ Developing applications and APIs using FastAPI, Flask and React.
-
-🌐 Building browser automation workflows using Playwright.
-
-🚀 My approach is simple:
-
-Learn → Build → Experiment → Improve
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<img src="./profile.png" width="230" alt="Anuj Tiwari">{=html}
-
-<br>{=html}<br>{=html}
-
-<strong>{=html}AI/ML Engineer</strong>{=html}<br>{=html} Data • AI
-• Software
-
-</td>
-
-</tr>
-
-</table>
+🚀 Learning by building practical projects and turning ideas into working systems
 
 🛠️ Tech Stack
 
-💻 Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">{=html}
-<img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript">{=html}
-<img src="https://skillicons.dev/icons?i=sqlite" height="55" alt="SQL">{=html}
-
-</p>
-
 🤖 AI / Machine Learning
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">{=html}
-<img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch">{=html}
-<img src="https://skillicons.dev/icons?i=sklearn" height="55" alt="Scikit-learn">{=html}
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="Python, PyTorch, Scikit-learn">
 </p>
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/XGBoost-Machine_Learning-EC6C00?style=for-the-badge" height="32" alt="XGBoost">{=html}
-<img src="https://img.shields.io/badge/SHAP-Explainable_AI-7C3AED?style=for-the-badge" height="32" alt="SHAP">{=html}
-
-</p>
-
-✨ Generative AI & Agentic AI
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Generative_AI-LLMs-7C3AED?style=for-the-badge" height="32" alt="Generative AI">{=html}
-<img src="https://img.shields.io/badge/LLM-Large_Language_Models-111827?style=for-the-badge" height="32" alt="LLM">{=html}
-<img src="https://img.shields.io/badge/LangGraph-Agentic_AI-8B5CF6?style=for-the-badge" height="32" alt="LangGraph">{=html}
-<img src="https://img.shields.io/badge/LangChain-GenAI-1C3C3C?style=for-the-badge" height="32" alt="LangChain">{=html}
-<img src="https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge" height="32" alt="Groq">{=html}
-
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-LLMs-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangChain-GenAI-1C3C3C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge">
 </p>
 
 🧠 Deep Learning & Computer Vision
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch">{=html}
-<img src="https://skillicons.dev/icons?i=opencv" height="55" alt="OpenCV">{=html}
-
-</p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/CNN-Deep_Learning-6D28D9?style=for-the-badge" height="32" alt="CNN">{=html}
-<img src="https://img.shields.io/badge/ResNet-50-2563EB?style=for-the-badge" height="32" alt="ResNet-50">{=html}
-<img src="https://img.shields.io/badge/YOLO-Computer_Vision-111827?style=for-the-badge" height="32" alt="YOLO">{=html}
-<img src="https://img.shields.io/badge/Grad--CAM-XAI-F97316?style=for-the-badge" height="32" alt="Grad-CAM">{=html}
-
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/CNN-Deep%20Learning-6D28D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/ResNet-50-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Grad--CAM-XAI-F97316?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
 🗣️ NLP & Text Intelligence
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Sentence_Transformers-NLP-16A34A?style=for-the-badge" height="32" alt="Sentence Transformers">{=html}
-<img src="https://img.shields.io/badge/TF--IDF-NLP-EAB308?style=for-the-badge" height="32" alt="TF-IDF">{=html}
-<img src="https://img.shields.io/badge/UMAP-Dimensionality_Reduction-2563EB?style=for-the-badge" height="32" alt="UMAP">{=html}
-<img src="https://img.shields.io/badge/HDBSCAN-Clustering-9333EA?style=for-the-badge" height="32" alt="HDBSCAN">{=html}
-
+<p>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-NLP-16A34A?style=for-the-badge">
+<img src="https://img.shields.io/badge/TF--IDF-NLP-EAB308?style=for-the-badge">
+<img src="https://img.shields.io/badge/UMAP-Dimensionality%20Reduction-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/HDBSCAN-Clustering-9333EA?style=for-the-badge">
 </p>
 
 📊 Data & Analytics
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=pandas" height="55" alt="Pandas">{=html}
-<img src="https://skillicons.dev/icons?i=numpy" height="55" alt="NumPy">{=html}
-
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Vega--Lite-Visualization-F59E0B?style=for-the-badge">
 </p>
 
-<p align="left">
+⚙️ Development
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="32" alt="SQL">{=html}
-<img src="https://img.shields.io/badge/Vega--Lite-Visualization-F59E0B?style=for-the-badge" height="32" alt="Vega-Lite">{=html}
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,react,fastapi,flask" alt="Python, JavaScript, React, FastAPI, Flask">
 </p>
 
-⚙️ Development & APIs
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">{=html}
-<img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript">{=html}
-<img src="https://skillicons.dev/icons?i=react" height="55" alt="React">{=html}
-<img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="FastAPI">{=html}
-<img src="https://skillicons.dev/icons?i=flask" height="55" alt="Flask">{=html}
-
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge">
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 </p>
 
-<p align="left">
+🔧 Tools
 
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" height="32" alt="REST APIs">{=html}
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" height="32" alt="Gradio">{=html}
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="32" alt="Hugging Face">{=html}
-
-</p>
-
-🌐 Automation
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="32" alt="Playwright">{=html}
-<img src="https://img.shields.io/badge/Browser_Automation-111827?style=for-the-badge" height="32" alt="Browser Automation">{=html}
-
-</p>
-
-🔧 Developer Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git">{=html}
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub">{=html}
-<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code">{=html}
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code">
 </p>
 
 🚀 Featured Projects
@@ -186,185 +98,137 @@ Learn → Build → Experiment → Improve
 
 PyTorch • ResNet-50 • Grad-CAM • Gradio
 
-Explainable multi-class X-ray classification system for identifying:
+Explainable multi-class X-ray classification system for Normal, Pneumonia, COVID-19 and Tuberculosis.
 
-Normal • Pneumonia • COVID-19 • Tuberculosis
+Highlights:
 
-Highlights
+5,800+ X-ray images
 
-🖼️ Trained on 5,800+ X-ray images
+85%+ classification accuracy
 
-🎯 Achieved 85%+ classification accuracy
+0.95 weighted AUC
 
-📈 Achieved 0.95 weighted AUC
+Transfer learning with ResNet-50
 
-🧠 Transfer learning using ResNet-50
+Data augmentation and class-weighted training
 
-⚖️ Class-weighted training and data augmentation
+Grad-CAM for visual model explanations
 
-🔍 Grad-CAM based visual explanations
-
-🌐 Interactive inference interface using Gradio
+Interactive inference interface with Gradio
 
 🤖 LangGraph SQL Agent
 
 LangGraph • Groq • FastAPI • React • SQL
 
-AI-powered analytics agent that converts natural-language questions into
-SQL, executes queries, and generates contextual analytical responses.
+AI-powered analytics agent that converts natural-language questions into SQL, executes queries, and generates contextual analytical responses.
 
-Highlights
+Highlights:
 
-💬 Natural Language → SQL workflow
+Natural-language → SQL workflow
 
-🧭 Agentic routing and intent handling
+Query validation and table selection
 
-🗃️ Table selection and query generation
+Agentic routing and response synthesis
 
-✅ SQL validation
+Streaming responses with SSE
 
-⚡ Streaming responses using SSE
+Interactive Vega-Lite visualizations
 
-📊 Interactive Vega-Lite visualizations
-
-⚛️ React frontend
-
-🚀 FastAPI backend
+React frontend + FastAPI backend
 
 📉 Customer Churn Prediction
 
 Python • Scikit-learn • XGBoost • SHAP • React
 
-End-to-end machine learning application for predicting customer churn
-using the IBM Telco Customer Churn dataset.
+End-to-end ML application for predicting customer churn from the IBM Telco Customer Churn dataset.
 
-Highlights
+Highlights:
 
-👥 7,043 customer records
+7,043 customer records
 
-🧹 Feature engineering and exploratory analysis
+Feature engineering and exploratory analysis
 
-🤖 XGBoost classification
+XGBoost classification
 
-🔍 SHAP-based model explainability
+SHAP-based explainability
 
-🎯 Churn prediction pipeline
-
-⚛️ Interactive React prediction interface
+Interactive React prediction interface
 
 🧩 AI Form Automation
 
 Python • Playwright • AI Agents • REST APIs
 
-AI-assisted form automation workflow designed to understand form fields,
-collect information conversationally, and automate browser-based form
-filling.
-
-Highlights
-
-🧠 Understands form fields
-
-💬 Conversational information collection
-
-🌐 Browser automation with Playwright
-
-🤖 AI-assisted field mapping
-
-🔐 Supports authentication workflows
-
-⚙️ REST API based architecture
+AI-assisted form automation workflow designed to understand form fields, collect information conversationally, and automate browser-based form filling.
 
 🧠 Current Focus
 
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-NLP
-        ↓
-Generative AI
-        ↓
-Agentic AI
-        ↓
-Data Analytics
-        ↓
-Production-ready AI Applications
+<div align="center">
 
-Currently focused on improving my ability to design, build and deploy
-practical AI systems that solve real-world problems.
+AI → Machine Learning → Deep Learning → Computer Vision → NLP → Generative AI → Agentic AI → Data Analytics → Production-ready AI Applications
+
+</div>
 
 📊 GitHub Activity
 
-::: {align="center"}
-`<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj01Tiwari&theme=github-dark&hide_border=true&area=true"
-alt="Anuj Tiwari GitHub Contribution Activity"
-width="100%"
+<div align="center">
 
-`{=html}
-:::
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj01Tiwari&theme=github-dark&hide_border=true&area=true" alt="Anuj Tiwari's GitHub contribution activity">
+
+</div>
+
+Your GitHub contribution calendar below this README remains the source of truth for activity.
+
+🧪 Contribution Graph Demo
+
+Educational simulation only: this section is a visual demo of how a denser contribution graph can look. It does not change GitHub's real contribution count.
+
+<div align="center">
+
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|
+|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|
+|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|
+|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|
+|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|
+|⬜|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|🟩|⬜|🟩|🟩|🟩|⬜|🟩|
+
+</div>
 
 🐍 Contribution Snake
 
-::: {align="center"}
-`<img
-src="./output/github-contribution-grid-snake-dark.svg"
-alt="Anuj Tiwari GitHub Contribution Snake"
-width="100%"
+<div align="center">
 
-`{=html}
-:::
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anuj01Tiwari/Anuj01Tiwari/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anuj01Tiwari/Anuj01Tiwari/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Anuj01Tiwari/Anuj01Tiwari/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
+</picture>
+
+</div>
 
 📜 Certifications
 
-🎓 AI/ML Internship Completion Certificate --- MPSEDC
+AI/ML Internship Completion Certificate — MPSEDC
 
-☕ Core Java Programming --- NPTEL
+Core Java Programming — NPTEL
 
-📰 Departmental Magazine Design & Leadership Certificate --- UIT,
-RGPV
+Departmental Magazine Design & Leadership Certificate — UIT, RGPV
 
-🤝 Connect With Me
+🤝 Let's Connect
 
-::: {align="center"}
-<a href="https://github.com/Anuj01Tiwari">{=html}
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" alt="GitHub">{=html}
-</a>{=html}     
+<div align="center">
 
-<a href="https://www.linkedin.com/in/anuj-tiwari-4957a9379/">{=html}
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn">{=html}
-</a>{=html}     
+<a href="https://www.linkedin.com/in/anuj-tiwari-4957a9379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Anuj01Tiwari"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:anujptiwari1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<a href="mailto:anujptiwari1@gmail.com">{=html}
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Email">{=html}
-</a>{=html}     
+</div>
 
-<a href="https://instagram.com/anxjj_01">{=html}
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" alt="Instagram">{=html}
-</a>{=html}
-
-<br>{=html}<br>{=html}
-
-GitHub   •   LinkedIn   •   Email   •   Instagram
-:::
-
-💭 Developer Mindset
-
-::: {align="center"}
-
-"The best way to learn technology is to build something with it."
-
-Learn • Build • Experiment • Improve
-
-:::
-
-::: {align="center"}
+<div align="center">
 
 💡 Building practical AI systems that solve real-world problems.
 
 Learn • Build • Improve
-:::
+
+</div>
